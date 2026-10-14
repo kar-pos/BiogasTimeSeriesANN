@@ -1,0 +1,13 @@
+# Pythona and Jupyter cache
+__pycache__/
+*.py[cod]
+.ipynb_checkpoints/
+
+# Darts / PyTorch logs and models
+darts_logs/
+*.pt
+*.ckpt
+
+#Editors temps files
+.vscode/
+.idea/
